@@ -74,8 +74,7 @@ The model explains approximately 99.5% of the variation in house prices.
 
 ### Actual vs Predicted Prices
 
-![Actual vs Predicted](notebook/images/actual_vs_predicted.png)
-
+![Actual vs Predicted](data/notebook/images/actual_vs_predicted.png)
 ---
 
 ## Sample Prediction
