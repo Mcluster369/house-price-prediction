@@ -17,8 +17,17 @@ The goal is to demonstrate a complete machine learning workflow including:
 - Model training
 - Model evaluation
 - Visualization
+  
+## Results
 
----
+The Linear Regression model achieved:
+
+- R² Score: 0.9951
+- MAE: 8,286.77
+- MSE: 87,447,003.97
+
+This indicates that the model explains approximately 99.5% of the variance in housing prices.
+
 
 ## Technologies Used
 
